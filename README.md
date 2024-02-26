@@ -19,4 +19,4 @@ Making two Arduinos communicate through CAN Bus.
 <img src="https://github.com/Omisha3301/Arduino_CAN-project/blob/main/CAN_img/CAN_receiver_dia_a.png?raw=true" width="700" height="700">
 
 ### Full Circuit
-<img src="https://github.com/Omisha3301/Arduino_CAN-project/blob/main/CAN_img/CAN_circuit_a.png?raw=true" width="700" height="700">
+<img src="https://github.com/Omisha3301/Arduino_CAN-project/blob/main/CAN_img/CAN_circuit_a.png?raw=true" >
