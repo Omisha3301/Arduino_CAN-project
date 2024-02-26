@@ -20,3 +20,10 @@ Making two Arduinos communicate through CAN Bus.
 
 ### Full Circuit
 <img src="https://github.com/Omisha3301/Arduino_CAN-project/blob/main/CAN_img/CAN_circuit_a.png?raw=true" >
+
+## Libraries Used
+### CAN BUS
+### DHT11
+### HC-SR04
+### I2C LCD Display
+
