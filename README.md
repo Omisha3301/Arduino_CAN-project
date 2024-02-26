@@ -24,6 +24,9 @@ Making two Arduinos communicate through CAN Bus.
 ## Libraries Used
 ### CAN BUS
 ### DHT11
+- DHTlib by Rob Tillaart
 ### HC-SR04
+- NewPing by Tim Eckel
 ### I2C LCD Display
+- 
 
