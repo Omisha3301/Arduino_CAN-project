@@ -23,10 +23,11 @@ Making two Arduinos communicate through CAN Bus.
 
 ## Libraries Used
 ### CAN BUS
+- https://github.com/autowp/arduino-mcp2515/?tab=readme-ov-file
 ### DHT11
 - DHTlib by Rob Tillaart
 ### HC-SR04
 - NewPing by Tim Eckel
 ### I2C LCD Display
-- 
+- LiquidCrystal I2C by Frank de Brabander
 
