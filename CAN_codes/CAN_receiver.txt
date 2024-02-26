@@ -39,10 +39,10 @@ void loop()
     float ultra = canMsg.data[3];
     int k = canMsg.data[4];
 
-	if (k==1)
-	  tone(buzzer, 1000); 
-	else
-  	  noTone(buzzer);      
+    //	if (k==1)
+    //	  tone(buzzer, 1000); 
+    //	else
+    //	  noTone(buzzer);      
  
     lcd.setCursor(0, 0);         
     lcd.print("H:");
