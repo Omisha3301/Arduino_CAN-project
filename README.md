@@ -13,6 +13,6 @@ Making two Arduinos communicate through CAN Bus.
 - CAN Module MCP2515
 ## Connections
 ### Transmitter
-![image](https://github.com/Omisha3301/Arduino_CAN-project/blob/main/CAN_img/CAN_transmitter_dia_a.png?raw=true)
+![image](https://github.com/Omisha3301/Arduino_CAN-project/blob/main/CAN_img/CAN_transmitter_dia_a.png?raw=true=250x250)
 ### Receiver
 ### Full Circuit
