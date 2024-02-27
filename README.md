@@ -22,12 +22,12 @@ Making two Arduinos communicate through CAN Bus.
 <img src="https://github.com/Omisha3301/Arduino_CAN-project/blob/main/CAN_img/CAN_circuit_a.png?raw=true" >
 
 ## Libraries Used
-### CAN BUS
+#### CAN BUS
 - https://github.com/autowp/arduino-mcp2515/?tab=readme-ov-file
-### DHT11
+#### DHT11
 - DHTlib by Rob Tillaart
-### HC-SR04
+#### HC-SR04
 - NewPing by Tim Eckel
-### I2C LCD Display
+#### I2C LCD Display
 - LiquidCrystal I2C by Frank de Brabander
 
